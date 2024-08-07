@@ -4,23 +4,20 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="A_inkFMGVLm-Xrk6xAE0-0" value="内容清洗模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="174" width="170" height="130" as="geometry" />
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;align=right;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="174" width="170" height="346" as="geometry" />
         </mxCell>
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-1" value="内容聚合模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="174" width="170" height="130" as="geometry" />
+          <mxGeometry x="320" y="174" width="170" height="346" as="geometry" />
         </mxCell>
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-2" value="内容对齐模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="174" width="170" height="130" as="geometry" />
+          <mxGeometry x="520" y="174" width="170" height="346" as="geometry" />
         </mxCell>
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-3" value="别名数据维表" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="204" y="30" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据ETL&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350.5" y="80" width="109" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="A_inkFMGVLm-Xrk6xAE0-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;平台数据ETL&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="229" y="80" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-6" value="黑名单数据维表" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="411" y="30" width="159" height="40" as="geometry" />
@@ -51,6 +48,30 @@
         </mxCell>
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-11" value="数据定期同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="436" y="130" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-13" value="配置文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-14" value="ISBN校验转换" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="460" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-15" value="内容相似算法" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350.5" y="460" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-16" value="大模型实体识别" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="410" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-17" value="人工规则识别" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="360" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-18" value="业务字段清洗" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="310" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-19" value="数据治理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="550" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-20" value="MR引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="180" width="40" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
