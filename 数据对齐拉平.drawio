@@ -64,7 +64,7 @@
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-17" value="人工规则识别" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="360" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A_inkFMGVLm-Xrk6xAE0-18" value="业务字段清洗" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-18" value="大文娱业务字段清洗" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="310" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-19" value="数据治理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="A_inkFMGVLm-Xrk6xAE0-20" value="MR引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="180" width="40" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="A_inkFMGVLm-Xrk6xAE0-21" value="基于ISBN的" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="352" y="420" width="124" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
