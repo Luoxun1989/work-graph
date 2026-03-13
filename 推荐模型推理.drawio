@@ -61,7 +61,7 @@
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1riSJ1ZPXrR9_MOrg8I4-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="模型文件&lt;div&gt;（AI云）&lt;/div&gt;" vertex="1">
+        <mxCell id="1riSJ1ZPXrR9_MOrg8I4-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="模型文件 2-3G&lt;div&gt;（AI云）&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="350" y="430" as="geometry" />
         </mxCell>
         <mxCell id="1riSJ1ZPXrR9_MOrg8I4-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="模型在线推理接口服务模块&lt;div&gt;（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;推荐服务器&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -139,7 +139,7 @@
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1riSJ1ZPXrR9_MOrg8I4-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="模型文件&lt;div&gt;（分析云）&lt;/div&gt;" vertex="1">
+        <mxCell id="1riSJ1ZPXrR9_MOrg8I4-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="模型文件 300M&lt;div&gt;（分析云）&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="119" y="360" as="geometry" />
         </mxCell>
         <mxCell id="1riSJ1ZPXrR9_MOrg8I4-60" edge="1" parent="1" source="1riSJ1ZPXrR9_MOrg8I4-49" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1riSJ1ZPXrR9_MOrg8I4-56" value="">
